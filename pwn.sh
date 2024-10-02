@@ -1,1 +1,1 @@
-echo "pwned by ghz" > /home/pwned
+echo "pwned by ghz" > /home/pwned.txt
